@@ -14,5 +14,5 @@ At last we've applied the logic of curls counting, thereby by diplaying the coun
 
 ![3](https://user-images.githubusercontent.com/88763391/148669430-ad3b5d34-2a51-4f86-a5cd-f4b00dbfb0ea.jpg)
 
-So this how it works. This AI based Fitness Tracker can guide an individual to maintain a good body posture. 
+So this is how it works. This AI based Fitness Tracker can guide an individual to maintain a good body posture. 
 Thank for having us & providing this platform i.e. Hackathon Dotlash 5.O. We had a wonderful experience making this project and it was very helpful to enchance our skills.
