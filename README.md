@@ -2,7 +2,7 @@
 
 We have build a AI based Fitness Tracker using OpenCV and Python. It can detect various body postures like bicep curls, squats and so on. We have used the pose estimation to find the correct points and using these points we'll get the desire angles. This tracker is going to track different fitness activities and render the results to the screen.
 
-First we need to instwll and import all the necessary libraries such as numpy, mediapipe and opencv. Then starting with capturing video from webcam and setting up mediapipe instance.
+First we need to install and import all the necessary libraries such as numpy, mediapipe and opencv. Then starting with capturing video from webcam and setting up mediapipe instance.
 
 ![1](https://user-images.githubusercontent.com/88763391/148669339-c27fe2cd-4424-4297-878f-08a36e23c255.jpg)
 
